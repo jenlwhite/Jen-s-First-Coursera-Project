@@ -1,3 +1,5 @@
 # Jen-s-First-Coursera-Project
-This repository exists to learn about GitHub
-Editing the file
+
+## This repository exists to learn about GitHub
+
+### Editing the file
