@@ -1,5 +1,5 @@
-# Jen-s-First-Coursera-Project
+# Jen's First Coursera Project
 
 ## This repository exists to learn about GitHub
 
-### Editing the file
+## Editing the file
